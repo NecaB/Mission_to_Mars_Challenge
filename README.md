@@ -1,1 +1,3 @@
 # Mission_to_Mars_Challenge
+
+This challenge required using HTML elements to observe and scrape data about the planet Mars. BeautifulSoup and Splinter was used to obtain data about planet Mars' hemisphere news and facts. Then the scraped data was stored on Mongo database and a web application with Flask used to display the scraped data. These included data about  the weather, temperature, diameter, mass and full-resolution images of Mars’s hemisphere. The data was scraped and placed on a current web app which was also adjusted to include four hemisphere images. Finally, after the web app design was altered to include the images scraped, Bootstrap was utilized to customize and beautify the portfolio. 
